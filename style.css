@@ -1,13 +1,13 @@
 h1, p
-{
-	color:green;
-    font-family: 'Times New Roman';
-	}
-    h3
-{
-	color:rgb(56, 5, 80);
-    font-family: Impact;
-	}
+    {
+        color:green;
+        font-family: 'Times New Roman';
+        }
+h3
+    {
+        color:rgb(56, 5, 80);
+        font-family: Impact;
+        }
 
 article
     {
