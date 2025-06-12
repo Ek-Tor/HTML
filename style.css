@@ -9,6 +9,13 @@ h3, h2
         font-family: Impact;
         }
 
+    .pink_color
+        {
+            color:pink;
+        }
+
+
+
 article
     {
         background-color: teal;
