@@ -39,3 +39,15 @@ input[type="text"]
     {
         border: 1px solid red;
     }
+    .container
+    {
+        display:flex;
+        flex-direction:row;
+        jsutify-content:center;
+        align-items:center;
+    }
+    .item
+    {
+        felx:1;
+        align-self:center;
+    }
