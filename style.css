@@ -1,14 +1,16 @@
-h1
+h1, h2
 {
 	color:green;
     font-family:"Times New Roman";
 	}
 
-div
+article
     {
         background-color: teal;
         background-image:url("https://th.bing.com/th/id/OIP.JdvV7qdxNc0oPt_bGautOwHaFi?rs=1&pid=ImgDetMain");
         background-size: cover;
+        width: 500;
+        height: 500;
         color:red;
         font-family:impact;
     }
@@ -16,7 +18,7 @@ div
 .blur
 {
     backdrop-filter: blur(5px);
-    background-color: rgba(255,255,255,0,3);
+    background-color: rgb(255, 255, 255, 0, 3)
 }
 
 div p
