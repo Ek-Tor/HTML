@@ -45,10 +45,13 @@ input[type="text"]
         flex-direction:row;
         justify-content:center;
         align-items:center;
+        height:200px;
+        background-color: lightgray;
     }
     .item
     {
         flex:1;
         align-self:center;
-        background-color
+        background-color: slateblue;
+        color:white;
     }
