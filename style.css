@@ -3,9 +3,10 @@ h1 {
     font-family:"Times New Roman";
 	}
 
-html
+body
     {
         background-color: teal;
+        color:red;
     }
     div p
     {
