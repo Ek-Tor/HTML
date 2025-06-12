@@ -20,5 +20,5 @@ body
 
     input[type="text"]
     {
-        border:
+        border: 1px solid red;
     }
