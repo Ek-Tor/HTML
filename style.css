@@ -1,18 +1,22 @@
 h1, p
 {
 	color:green;
-    font-family:"Times New Roman";
+    font-family: 'Times New Roman';
+	}
+    h3
+{
+	color:rgb(56, 5, 80);
+    font-family: Impact;
 	}
 
 article
     {
         background-color: teal;
         background-image:url("https://th.bing.com/th/id/OIP.JdvV7qdxNc0oPt_bGautOwHaFi?rs=1&pid=ImgDetMain");
-        background-size: cover;
-        width: 5;
-        height: 5;
+        width: 120;
+        height: 120;
         color:red;
-        font-family:impact;
+        font-family: Impact;
     }
 
 .blur
