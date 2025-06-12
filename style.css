@@ -43,11 +43,11 @@ input[type="text"]
     {
         display:flex;
         flex-direction:row;
-        jsutify-content:center;
+        justify-content:center;
         align-items:center;
     }
     .item
     {
-        felx:1;
+        flex:1;
         align-self:center;
     }
