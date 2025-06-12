@@ -1,4 +1,4 @@
-h1, h2
+h1, p
 {
 	color:green;
     font-family:"Times New Roman";
@@ -9,8 +9,8 @@ article
         background-color: teal;
         background-image:url("https://th.bing.com/th/id/OIP.JdvV7qdxNc0oPt_bGautOwHaFi?rs=1&pid=ImgDetMain");
         background-size: cover;
-        width: 500;
-        height: 500;
+        width: 5;
+        height: 5;
         color:red;
         font-family:impact;
     }
