@@ -1,9 +1,9 @@
-h1, p
+h1, strong
     {
         color:green;
         font-family: 'Times New Roman';
         }
-h3
+h3,h2
     {
         color:rgb(56, 5, 80);
         font-family: Impact;
@@ -13,8 +13,8 @@ article
     {
         background-color: teal;
         background-image:url("https://th.bing.com/th/id/OIP.JdvV7qdxNc0oPt_bGautOwHaFi?rs=1&pid=ImgDetMain");
-        width: 120;
-        height: 120;
+        width: 100;
+        height: 100;
         color:red;
         font-family: Impact;
     }
@@ -50,4 +50,5 @@ input[type="text"]
     {
         flex:1;
         align-self:center;
+        background-color
     }
