@@ -7,9 +7,16 @@ h1
 body
     {
         background-color: teal;
+        background-image:url("https://th.bing.com/th/id/OIP.JdvV7qdxNc0oPt_bGautOwHaFi?rs=1&pid=ImgDetMain");
         color:red;
         font-family:impact;
     }
+
+.blur
+{
+    backdrop-filter: blur(5px);
+    background-color: rgba(255,255,0,3);
+}
 
 div p
     {
